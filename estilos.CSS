@@ -1,0 +1,20 @@
+body{
+background-color: rgba(211, 128, 173, 0.527);
+font-family: 'Arial', sans-serif;
+text-align: center;
+}
+section{
+background-color: rgba(243, 238, 235, 0.473);
+padding: 10px;
+}
+h2{
+    font-family: 'Times New Roman', Times,serif;
+
+}
+header img{
+width: 100px;
+border-radius:  40%;
+}
+ul li{
+    text-align: center;
+}
